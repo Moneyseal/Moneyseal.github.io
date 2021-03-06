@@ -599,7 +599,7 @@ section .container {
 /*--------------------------------------------------------------
 # Innovation
 --------------------------------------------------------------*/
-.innovation .innovation-title h3 {
+.innovation .innovation-title {
   font-weight: 700;
   font-size: 26px;
   color: #18d26e;
